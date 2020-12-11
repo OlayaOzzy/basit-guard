@@ -1,0 +1,22 @@
+{
+ "botOwner": "",
+ "botToken": "",
+ "botPrefix": "",
+ 
+ "botActivity": "Piece publara bot yapıo la",
+ "botStatus": "dnd",
+ "botType": "WATCHING",
+ "botSesKanal": "",
+ "footer": "Piece ❤️ SerendiaSquad | discord.gg/serendia",
+
+ "renk1": "#ffd000",
+
+ "banKickLog": "",
+ "sunucuLog": "",
+ "kanalLog": "",
+ "rolLog": "",
+ "ytKapat": "",
+
+ "pieceBeyazListe": ["", ""]
+
+}
